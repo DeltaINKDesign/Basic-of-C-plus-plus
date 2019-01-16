@@ -8,7 +8,7 @@ int main(int argc, char** argv) {
 	string b;
 	int a;
 	int i;
-	cout<<"Witaj. Wpisz swoje imie i nazwisko, oraz powiedz mi, ile razy mam je powtorzyc. dzieks\n";
+	cout<<"Witaj. Wpisz swoje imie i nazwisko, oraz powiedz mi, ile razy mam je powtorzyc.\n";
 	cin>>ab;
 	cin>>b;
 	cin>>a;

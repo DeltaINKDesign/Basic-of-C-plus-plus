@@ -28,7 +28,7 @@ system("COLOR 1B");  // pierwszy znak t³o druki czcionka;
 
    system("COLOR 1B");
    cout<< "kolor wybrany"<<endl;
-   Sleep(2000);
+   Sleep(6000);
 
    system("COLOR 6C");
    cout<< "kolor wybrany";

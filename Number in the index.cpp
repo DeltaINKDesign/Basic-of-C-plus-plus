@@ -1,5 +1,5 @@
 #include <iostream>
-#include <vector> //1.Dodajê potrzebn¹ bibliotekê ¿ebym móg³ u¿ywaæ tablic dynamicznych.
+#include <vector> 
 using namespace std;
 int znajdzindeks(vector <int> liczby, int wartosc)
 {
@@ -12,7 +12,7 @@ int znajdzindeks(vector <int> liczby, int wartosc)
 	}
 	return -1;
 }
- ///PRGORAM KTÓRY: 1.WYSWIETLA POZYCJE LICZBY W TABLICY///
+ ///PROGRAM KTÓRY: 1.WYSWIETLA POZYCJE LICZBY W TABLICY///
 int main(int argc, char** argv) {
 	int wybor;
 	int x,y;
